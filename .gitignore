@@ -1,0 +1,56 @@
+```
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+[Ll]ogs/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio cache files
+.vs/
+
+# Visual Studio Code settings
+.vscode/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+*.nuget.props
+*.nuget.targets
+
+# Azure
+*.azurePubxml
+*.pubxml
+*.publishproj
+
+# Others
+*.dbmdl
+*.bak
+*.log
+*.ldf
+*.mdf
+*.tmp
+
+# JetBrains Rider
+.idea/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Test results
+[Tt]est[Rr]esult*/
+*.VisualState.xml
+*.coverage
+*.coveragexml
+
+# Others generated files
+*.generated.cs
+```
